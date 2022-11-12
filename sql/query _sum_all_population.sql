@@ -1,3 +1,2 @@
-select
-	sum(population)
-from "population"."population";
+select sum(population)
+  from "population"."population";
