@@ -1,1 +1,3 @@
-select * from "population"."population" limit 10
+select 
+* 
+from "population"."population" limit 10
