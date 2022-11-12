@@ -1,4 +1,4 @@
-# dio-live-athena
+# dio_live_athena_reexibição_Geração Tech Unimed-BH - Ciência de Dados - Novembro 2022
 Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 
 ### Serviços utilizados nessa atividade prática
